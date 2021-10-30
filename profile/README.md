@@ -1,7 +1,7 @@
 ### Atlas IoT LLC
 ![alt text](https://github.com/AtlasIoT-development/.github/blob/main/profile/IOT%20TURQUOISE.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&theme=default)
 
 
 <!--
