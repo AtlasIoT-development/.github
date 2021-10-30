@@ -1,13 +1,14 @@
 ### Atlas IoT LLC
 ![alt text](https://github.com/AtlasIoT-development/.github/blob/main/profile/IOT%20TURQUOISE.png)
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmcosentini&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmcosentini&count_private=true)
 
-<!--
+
 
 **Here are some ideas to get you started:**
 
