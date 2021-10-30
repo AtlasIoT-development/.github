@@ -1,5 +1,5 @@
 ## Atlas IoT LLC
-![alt text](https://github.com/AtlasIoT-development/AtlasIoT-development/blob/main/IOT%20TURQUOISE.png)
+![alt text](https://github.com/AtlasIoT-development/.github/blob/main/profile/IOT%20TURQUOISE.png)
 
 <!--
 
