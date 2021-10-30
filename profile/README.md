@@ -1,4 +1,5 @@
-## Hi there 👋
+## Atlas IoT LLC
+![alt text](https://github.com/AtlasIoT-development/AtlasIoT-development/blob/main/IOT%20TURQUOISE.png)
 
 <!--
 
