@@ -1,6 +1,11 @@
 ### Atlas IoT LLC
 ![alt text](https://github.com/AtlasIoT-development/.github/blob/main/profile/IOT%20TURQUOISE.png)
 
+##Taking your product into the future.
+
+# Enhance with Smart Tech, Track useful Data, Maximize Return on Investment.
+
+We develop secure software specifically designed for data collecting IoT products and customized visual dashboards that display the crucial information that drives your business.
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
