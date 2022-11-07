@@ -1,9 +1,9 @@
-### Atlas IoT LLC
+# Atlas IoT LLC
 ![alt text](https://github.com/AtlasIoT-development/.github/blob/main/profile/IOT%20TURQUOISE.png)
 
 ## Taking your product into the future.
 
-# Enhance with Smart Tech, Track useful Data, Maximize Return on Investment.
+### Enhance with Smart Tech, Track useful Data, Maximize Return on Investment.
 
 We develop secure software specifically designed for data collecting IoT products and customized visual dashboards that display the crucial information that drives your business.
 <!--
