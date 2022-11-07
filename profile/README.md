@@ -1,7 +1,7 @@
 ### Atlas IoT LLC
 ![alt text](https://github.com/AtlasIoT-development/.github/blob/main/profile/IOT%20TURQUOISE.png)
 
-##Taking your product into the future.
+## Taking your product into the future.
 
 # Enhance with Smart Tech, Track useful Data, Maximize Return on Investment.
 
