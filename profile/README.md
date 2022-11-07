@@ -8,10 +8,6 @@
 We develop secure software specifically designed for data collecting IoT products and customized visual dashboards that display the crucial information that drives your business.
 
 
-(https://github-readme-stats.vercel.app/api?username=AtlasIoTadmin&count_private=true&show_icons=true)](https://github.com/AtlasIoTadmin/github-readme-stats)
-
-
-[![hmcosentini GitHub stats](https://github-readme-stats.vercel.app/api?username=ameriles&count_private=true&show_icons=true)](https://github.com/ameriles/github-readme-stats)
 
 
 <!--
