@@ -7,10 +7,11 @@
 
 We develop secure software specifically designed for data collecting IoT products and customized visual dashboards that display the crucial information that drives your business.
 
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasIoTadmin&langs_count=8)](https://github.com/AtlasIoTadmin/github-readme-stats)
 
 
-<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
