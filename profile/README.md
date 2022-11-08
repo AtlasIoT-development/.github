@@ -1,5 +1,7 @@
 <h1 align="left">Atlas IoT LLC</h1>
-![header](https://github.com/AtlasIoT-development/.github/blob/main/profile/github.png)
+
+![header](github.png)
+
 <h2 align="left">Taking your product into the future</h2>
 <h3 align="left">Enhance with Smart Tech, Track useful Data, Maximize Return on Investment</h3>
 
