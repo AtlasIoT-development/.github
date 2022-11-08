@@ -11,7 +11,7 @@ We develop secure software specifically designed for data collecting IoT product
 <p align="left">
 <a href="https://www.atlasiot.com" target="blank"><img align="center" src="profile/IOT TURQUOISE.png" alt="[https://www.linkedin.com/company/atlasiot-llc](https://www.atlasiot.com)" height="30" width="40" /></a>
 </p>
-<a href="https://www.linkedin.com/company/atlasiot-llc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/atlasiot-llc" height="30" width="200" /></a>
+<a href="https://www.linkedin.com/company/atlasiot-llc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/atlasiot-llc" height="30" width="300" /></a>
 </p>
 
 ---
