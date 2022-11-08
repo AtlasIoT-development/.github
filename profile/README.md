@@ -8,9 +8,6 @@
 We develop secure software specifically designed for data collecting IoT products and customized visual dashboards that display the crucial information that drives your business.
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atlasiot-development&label=Profile%20views&color=0e75b6&style=flat" alt="atlasiot-development" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atlasiot-development" alt="atlasiot-development" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
