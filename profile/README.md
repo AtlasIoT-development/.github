@@ -1,10 +1,10 @@
-<h1 align="left">Atlas IoT LLC</h1>
+<h2 align="left">Atlas IoT LLC</h1>
 
 ![header](github.png)
 
 <h2 align="left">Taking your product into the future</h2>
 <h3 align="left">Enhance with Smart Tech, Track useful Data, Maximize Return on Investment</h3>
-
+We develop secure software specifically designed for data collecting IoT products and customized visual dashboards that display the crucial information that drives your business.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atlasiot-development&label=Profile%20views&color=0e75b6&style=flat" alt="atlasiot-development" /> </p>
 
 
