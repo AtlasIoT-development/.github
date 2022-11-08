@@ -9,8 +9,8 @@ We develop secure software specifically designed for data collecting IoT product
 ---
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://www.atlasiot.com" target="blank"><img align="center" src="profile/IOT TURQUOISE white bg.png" alt="[https://www.linkedin.com/company/atlasiot-llc](https://www.atlasiot.com)" height="60" width="60" /></a> 
-<a href="https://www.linkedin.com/company/atlasiot-llc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/atlasiot-llc" height="60" width="60" /></a>
+<a href="https://www.atlasiot.com" target="blank"><img align="center" src="profile/IOT TURQUOISE white bg.png" alt="[https://www.linkedin.com/company/atlasiot-llc](https://www.atlasiot.com)" height="80" width="80" /></a> 
+<a href="https://www.linkedin.com/company/atlasiot-llc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/atlasiot-llc" height="50" width="50" /></a>
 </p>
 
 ---
