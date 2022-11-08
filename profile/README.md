@@ -1,6 +1,6 @@
 <h2 align="left">Atlas IoT LLC - Taking your product into the future</h1>
 
-![header](fondo_ retouch_2022.png)
+![header](profile/fondo_ retouch_2022.png)
 
 <h3 align="left">Enhance with Smart Tech, Track useful Data, Maximize Return on Investment</h3>
 We develop secure software specifically designed for data collecting IoT products and customized visual dashboards that display the crucial information that drives your business.
