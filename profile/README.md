@@ -1,12 +1,7 @@
-# Atlas IoT LLC
-![alt text](https://github.com/AtlasIoT-development/.github/blob/main/profile/IOT%20TURQUOISE.png)
+<h1 align="center">Atlas IoT LLC Matías Cosentini</h1>
+<h3 align="center">aking your product into the future.</h3>
 
-## Taking your product into the future.
-
-### Enhance with Smart Tech, Track useful Data, Maximize Return on Investment.
-
-We develop secure software specifically designed for data collecting IoT products and customized visual dashboards that display the crucial information that drives your business.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atlasiot-development&label=Profile%20views&color=0e75b6&style=flat" alt="atlasiot-development" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atlasiot-development" alt="atlasiot-development" /></a> </p>
 
@@ -23,3 +18,4 @@ We develop secure software specifically designed for data collecting IoT product
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atlasiot-development&show_icons=true&locale=en" alt="atlasiot-development" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atlasiot-development&" alt="atlasiot-development" /></p>
+
