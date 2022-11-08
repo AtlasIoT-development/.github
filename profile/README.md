@@ -1,5 +1,6 @@
-<h1 align="center">Atlas IoT LLC Matías Cosentini</h1>
-<h3 align="center">Taking your product into the future.</h3>
+<h1 align="center">Atlas IoT LLC</h1>
+<h2 align="center">Taking your product into the future</h2>
+<h3 align="center">Enhance with Smart Tech, Track useful Data, Maximize Return on Investment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atlasiot-development&label=Profile%20views&color=0e75b6&style=flat" alt="atlasiot-development" /> </p>
 
