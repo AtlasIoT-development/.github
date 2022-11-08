@@ -5,7 +5,7 @@
 <h3 align="left">Enhance with Smart Tech, Track useful Data, Maximize Return on Investment</h3>
 We develop secure software specifically designed for data collecting IoT products and customized visual dashboards that display the crucial information that drives your business.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atlasiot-development&label=Profile%20views&color=0e75b6&style=flat" alt="atlasiot-development" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atlasiot-development&label=Profile%20views&color=0e75b6&style=flat" alt="atlasiot-development" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
